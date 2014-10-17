@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wla:home|Door43 (wla)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wla|d43-wla repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wla/archive/master.zip|d43-wla.zip]]
+
+**Recent Changes**
+{{changes>ns = wla}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wla|Ethnologue data]]
+
